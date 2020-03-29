@@ -6,14 +6,24 @@ Iris Flower DataSet obtained from Kaggle: https://www.kaggle.com/arshid/iris-flo
 
 The dataset is a CSV file which contains a set of 150 records under 4 features - Petal Length, Petal Width, Sepal Length, Sepal width and 1 Label Class - Species
 
-## Goal
+## Goal 1 - IrisFlower_EDA_SVM.ipynb
 Perform Exploratory Data Analysis and build a predictive model that determines the Iris species based on the 4 features of an Iris Flower.
 
+### Contents  
+1.0 Setup  
+2.0 Exploratory Data Analysis  
+3.0 Build Model  
+3.1 Train Test Split  
+3.2 Create SVM Model  
+3.3 Evaluate SVM Model  
 
-### Contents
-#### 1.0 Setup
-#### 2.0 Exploratory Data Analysis
-#### 3.0 Build Model
-##### 3.1 Train Test Split
-##### 3.2 Create SVM Model
-##### 3.3 Evaluate SVM Model
+## Goal 2 - IrisFlower_KMeans_Clustering.ipynb  
+* Investigate the use of K-Means Clustering for the identifcation of the 3 Iris Flower Species.  
+* Can K-Means clustering distinguish between the 3 Iris species?  
+
+### Contents  
+1.0 Setup  
+2.0 Exploratory Data Analysis  
+3.0 K-Means Clustering  
+3.1 petal_length vs sepal_length  
+3.2 Evaluation  
